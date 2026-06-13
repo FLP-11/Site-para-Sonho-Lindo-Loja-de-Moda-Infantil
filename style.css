@@ -102,11 +102,11 @@ body{
 }
 
 .prev{
-    left: 15px;
+    left: -25px;
 }
 
 .next{
-    right: 15px;
+    right: -25px;
 }
 
 .dots{
